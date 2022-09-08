@@ -1,6 +1,6 @@
 # Why is my computer sound not working ?
 
-[![Why is my computer sound not working](red.png)](https://github.com/techtous/why.is.my.computer.sound.not.working)
+[![Why is my computer sound not working](red.png)](https://icncomputer.com/why-is-my-computer-sound-not-working/)
 
 No sound on computer is one of the most common issues for Windows users, especially after Windows Update. Don’t worry! There are solutions to fix no sound on computer quickly and easily
 
